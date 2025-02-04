@@ -9,3 +9,4 @@ and
 Run the command 
     'node texex.js 2>/dev/null'
 The 2>/dev/null suppresses an error, run without to see.
+From https://zips.z.cash/zip-0320#reference-implementation
