@@ -8,6 +8,6 @@ and
 (or both at the same time whatevs). 
 Open the file and paste your transparent address to be converted and/or tex address to be reverted. The script does both as an example.
 Run the command 
--        node texex.js 2>/dev/null
+-        node texes.js 2>/dev/null
 The 2>/dev/null suppresses an error, run without to see.
 From https://zips.z.cash/zip-0320#reference-implementation
