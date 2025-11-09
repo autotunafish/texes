@@ -2,7 +2,7 @@
 Reference implementation for encoding and decoding Zcash Tex addys in js.
 -
 #UPDATE
-Check out this online version! https://jade-brioche-873777.netlify.app/
+Check out this online version! https://690e9524c66a3ecac5d54eff--jade-brioche-873777.netlify.app/
 
 To run, copy down the file (obviously) and in the file directory, run 
 -      npm install bech32 
